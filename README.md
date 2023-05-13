@@ -1,2 +1,5 @@
 # Jothilakshmi
-Hi, This is Jothilakshmi @ Indu, who has completed post graduation in M.Sc., Mathematics
+Hi there, 
+
+I'm Jothilakshmi @ Indu, I have completed post graduation in M.Sc., Mathematics. 
+Currently, I'm learning courses in Data Analytics to enhance my skills and knowledge.
